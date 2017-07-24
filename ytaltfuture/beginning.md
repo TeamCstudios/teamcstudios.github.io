@@ -4,4 +4,4 @@ Maps "Year"
 are of January 1st of said year, events (YEAR)
 are everything that happened in that year.
 
-![2017](assets/2017.png)
+![2017](teamcstudios.pro/assets/2017.png)
