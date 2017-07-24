@@ -1,1 +1,8 @@
 theme: jekyll-theme-hacker
+
+title: TeamCstudios Website
+description: Website for TeamCstudios!
+show_downloads: false
+
+gems:
+  - jekyll-mentions
