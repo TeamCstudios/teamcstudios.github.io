@@ -4,8 +4,7 @@ MrJoCrafter is the leader of Team CStudios. He was mostly responsible for bringi
 
 ## Social Media
 
-[Twitter](http://twitter.com/MrJoCrafter)
-[GitHub](http://github.com/MrJoCrafter)
+[YouTube Channel](https://www.youtube.com/channel/UCGTwZjiipUGubeu-YN6qpZw) [Twitter](http://twitter.com/MrJoCrafter) [GitHub](http://github.com/MrJoCrafter)
 
 ## Founding of Team CStudios
 
