@@ -7,5 +7,5 @@ Minecraft Vanilla Server: chaosnet.mc.gg<br>
 Forums: [Chaos Network Forums](http://chaosnetworkforums.zone)<br>
 Alternate Future Project: [YTAltFuture](YouTubeAlternateFuture)<br>
 Generator: [Ron Swanson Wisdom Generator](RonSwansonWisdomGen)<br>
-Simulator: [Battle Games Simulator](BattleGamesSimulator)
+Simulator: [Battle Games Simulator](BattleGamesSimulator)<br>
 APP: [.xxi companion App](XXIcompanionAPP)
