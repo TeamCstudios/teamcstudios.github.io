@@ -4,11 +4,17 @@ MrJoCrafter is the leader of Team CStudios. He was mostly responsible for bringi
 
 ## Social Media
 
-[YouTube Channel](https://www.youtube.com/channel/UCGTwZjiipUGubeu-YN6qpZw) [Twitter](http://twitter.com/MrJoCrafter) [GitHub](http://github.com/MrJoCrafter)
+[YouTube Channel](https://www.youtube.com/channel/UCGTwZjiipUGubeu-YN6qpZw) 
+
+[Twitter](http://twitter.com/MrJoCrafter) 
+
+[GitHub](http://github.com/MrJoCrafter)
 
 ## Founding of Team CStudios
 
-MrJoCrafter founded Team CStudios, then "cstudiosyoutube" in 2013 for fun. In 2014, he brought on DjSlime, and it only got larger from there. It was rebranded "Team CStudios | Gaming and More!" in late 2014.
+MrJoCrafter founded Team CStudios, then "cstudiosyoutube" in 2013 for fun. In 2014, he brought on DjSlime, and it only got larger from there. 
+
+It was rebranded "Team CStudios | Gaming and More!" in late 2014.
 
 ## Series Included in
 
