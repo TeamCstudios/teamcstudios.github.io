@@ -26,7 +26,7 @@ Chew met MrJoCrafter in Winter 2014\. She joined Team Cstudios in 2015 out of a 
 
 ## Favorite Games
 
-Chew's top 7 favorite games are: 1) Minecraft 2) That's it, next question.
+Chew's top 7 favorite games are: 1) Minecraft
 
 ## Relationships
 
@@ -44,27 +44,15 @@ Chew and ZachAttack are good friends. (They used to bowl together and make fun o
 
 ### ThePlayaKing
 
-Chew believes Lance is an alt account of Jo. (Jo has yet to prove otherwise)
+Chew believes Lance is an alt account of Jo. (Jo has yet to prove otherwise) (Chew has yet to prove this)
 
 First Video Apperance | First Videogame Apperance           | Join Team Cstudios
 --------------------- | ----------------------------------- | ------------------
 Minecraft Battleship  | Team CStudios Adventure - Episode 1 | 2015
 
-## Apperances in Games
-
-### Team Cstudios Adventure
-
-Chew appears in all episodes of TCA from the beginning as a playable character. She is a support attacker.
-
-Skill          | Level Learned | Effect
--------------- | ------------- | ----------------------------------
-Roast          | 5             | Damage, all enemies, lower defense
-Chew's Mixtape | 10            | Damage, all enemies, lower attack
-Rainbow Beam   | 12            | Damage, all enemies
-
 ## Quotes
 
-"Oh yeah, I picked up this piece of land and made it float." - ChewLeKitten, Team CStudios Adventure Episode 1
+"Oh yeah, I picked up this piece of land and made it float." - *ChewLeKitten, Team CStudios Adventure Episode 1*
 
-MrJoCrafter: "If I had a nickel for every time Chew said "pie," I'd be Donald Trump."<br>
-Chew: "Well, nobody likes you so you're pretty much already him."
+*MrJoCrafter*: "If I had a nickel for every time Chew said 'pie,' I'd be Donald Trump."<br>
+*Chew:* "Well, nobody likes you so you're already halfway there."
