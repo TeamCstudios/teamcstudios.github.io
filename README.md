@@ -1,7 +1,7 @@
 # The Official Website of Team CStudios!
 
-[Social Media](socialmedia)
+# [Check out our Social Media!](socialmedia)
 
-[Projects](projects)
+# [All Projects](projects)
 
-[About us!](about)
+# [About us!](about)
