@@ -7,9 +7,9 @@ We've lost and added members until now in 2017.<br>
 
 ## Current Members:
 
-1) [MrJoCrafter](http://teamcstudios.pro/members/mrjocrafter)<br>
-2) [Chewsterchew](http://teamcstudios.pro/members/chew)<br>
-3) [DjSlime](http://teamcstudios.pro/members/djslime)<br>
+1) [MrJoCrafter](http://wiki.teamcstudios.pro/characters/mrjocrafter)<br>
+2) [Chewsterchew](http://wiki.teamcstudios.pro/characters/chewlekitten)<br>
+3) [DjSlime](http://wiki.teamcstudios.pro/characters/djslime)<br>
 4) ZachAttack<br>
 5) ThePlayaKing
 
