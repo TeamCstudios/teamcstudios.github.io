@@ -2,10 +2,22 @@
 
 # Projects:
 
-Minecraft Mod: [CStudiosMod](CStudiosMod/)<br>
-Minecraft Vanilla Server: chaosnet.mc.gg<br>
-Forums: [Chaos Network Forums](http://chaosnetworkforums.zone)<br>
+Minecraft Mod: [CStudiosMod](CStudiosMod/) [CStudiosMod3](CStudiosMod3/)<br>
+Minecraft Map: [The Challenges Series](map)<br>
 Alternate Future Project: [YTAltFuture](YouTubeAlternateFuture)<br>
 Generator: [Ron Swanson Wisdom Generator](RonSwansonWisdomGen)<br>
-Simulator: [Battle Games Simulator](BattleGamesSimulator)<br>
 APP: [.xxi companion App](XXIcompanionAPP)
+
+#
+
+#
+
+#
+
+#
+
+
+## Failed Projects
+Simulator: [Battle Games Simulator](BattleGamesSimulator)<br>
+Minecraft Vanilla Server: shut down :(<br>
+Forums: [Chaos Network Forums](http://chaosnetworkforums.zone) shut down :(<br>
