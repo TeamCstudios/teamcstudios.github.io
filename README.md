@@ -1,6 +1,6 @@
 # The Official Website of Team CStudios!
 
-# [The Team CStudios Wiki](https://wiki.teamcstudios.pro/)
+# [The Team CStudios Wiki](https://wiki.teamcstudios.site/)
 
 # [Check out our Social Media!](socialmedia)
 
