@@ -9,3 +9,8 @@ Book 2 - [Poisoned Love](https://docs.google.com/document/d/1NEmBPMpaDa1cABAItQC
 **Summary:** The Bagel Investigators, after defeating the Bagel, have relaxed into being mere peacekeepers. However, when a student is mysteriously killed at school, they move back into action. But will they be able to stop the murderer before too late? And who are the other Chosen Ones?
 
 Book 3 - The Bagel Returns (currently unavailable)
+
+Book 4 - Burning Summer (currently unavailable)
+
+Book 5 - The Galveston War (currently unavailable)
+
