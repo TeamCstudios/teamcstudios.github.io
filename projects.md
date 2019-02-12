@@ -8,13 +8,7 @@ Alternate Future Project: [YTAltFuture](YouTubeAlternateFuture)<br>
 Generator: [Ron Swanson Wisdom Generator](RonSwansonWisdomGen)<br>
 APP: [.xxi companion App](XXIcompanionAPP)
 
-#
-
-#
-
-#
-
-#
+<br/><br/><br/><br/><br/><br/>
 
 
 ## Failed Projects
