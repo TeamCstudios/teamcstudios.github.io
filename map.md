@@ -13,3 +13,9 @@ with a massive new map, collect 16 glazed terracotta blocks and 64 stars. There'
 [The Challenges 4](http://www.mediafire.com/file/01e222mlof9iko8/The+Challenges+4.zip)
 
 Return to the style of The Challenges 2 with new mechanics.
+
+The Challenges 5
+
+With a more linear style, collect 16 blocks in a variety of environments.
+
+
