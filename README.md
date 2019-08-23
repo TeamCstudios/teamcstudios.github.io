@@ -43,6 +43,6 @@ Engine: [VisualNovelEngine](VisualNovelEngine) <br>
 Simulator: [Battle Games Simulator](BattleGamesSimulator)<br>
 GroupCivs: [GroupCivs](GroupCivs)<br>
 GhostTrackerApp: [GhostTrackerApp](GhostTrackerApp)<br>
-CStudiosMod2: [CStudiosMod2](CStudiosMod2)
-ConlangWorld: [ConlangWorld](ConlangWorld)
+CStudiosMod2: [CStudiosMod2](CStudiosMod2) <br>
+ConlangWorld: [ConlangWorld](ConlangWorld) <br>
 Scratch Games: [FNATC](FNATC) [VirtualTabletOS](VirtualTabletOS) [FNAR](FNAR) [Extreme-Weather-Simulator](Extreme-Weather-Simulator)
