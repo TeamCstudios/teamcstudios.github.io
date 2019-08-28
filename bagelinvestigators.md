@@ -10,7 +10,8 @@ Book 2 - [Poisoned Love](https://docs.google.com/document/d/1NEmBPMpaDa1cABAItQC
 
 Book 3 - The Bagel Returns (currently unavailable)
 
-Book 4 - Burning Summer (currently unavailable)
+Book 4 - (currently unavailable)
 
-Book 5 - The Galveston War (currently unavailable)
+Book 5 - (currently unavailable)
 
+Book 6 - (currently unavailable)
